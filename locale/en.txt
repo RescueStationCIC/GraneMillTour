@@ -1,0 +1,129 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Grane Mill, Haslingden
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Subtitle
+panorama_A4B9FF7E_ADDA_4E4E_41E0_5822994F4CAF.subtitle = Parts which can't be sourced often get created right here.
+
+### Title
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4.label = Cuttings
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_0.label = Cuttings: Pinboard
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_1.label = Cuttings: Alice and Hilda retire
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_2.label = Cuttings: Grane Mill
+album_A1C9CA4C_AFAC_7652_41E4_B14195BBCBB4_3.label = Cuttings: Advertisement
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C.label = Detail
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_0.label = Detail: Start Stop
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_1.label = Detail: Alice
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_10.label = Detail: Alice connetcing rod 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_12.label = Detail: Pressure gauges
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_13.label = Detail: Stott Engineers
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_14.label = Detail: Garden
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_2.label = Detail: Alice 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_3.label = Detail: Alice connecting rod 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_4.label = Detail: Alice flywheel 1
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_5.label = Detail: Governor
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_6.label = Detail: Alice flywheel 2
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_7.label = Detail: Flywheel positioning
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_8.label = Detail: Ladder to flywheel pit
+album_A2EF1F66_AFEC_4E5E_41C5_DAFC791B782C_9.label = Detail: Alternating generator
+album_A49F69E1_AFBC_D252_41DD_C95F61A2DD7F.label = Chimney
+album_A49F69E1_AFBC_D252_41DD_C95F61A2DD7F_0.label = Chimney: Plaque
+album_A49F69E1_AFBC_D252_41DD_C95F61A2DD7F_5.label = Chimney: With water tank
+album_A54C046F_AFA4_322E_41D7_1580C502E962.label = Condenser
+album_A54C046F_AFA4_322E_41D7_1580C502E962_0.label = Condenser 1
+album_A54C046F_AFA4_322E_41D7_1580C502E962_1.label = Condenser 2
+album_A54C046F_AFA4_322E_41D7_1580C502E962_2.label = Condenser 3
+album_A54C046F_AFA4_322E_41D7_1580C502E962_3.label = Condenser 4
+album_A54C046F_AFA4_322E_41D7_1580C502E962_4.label = Condenser 5
+panorama_A311FB47_AE2B_D7BE_41D1_69496D885F3C.label = Front Yard
+panorama_A31299CF_AE2A_524E_41DD_C670C26C60AF.label = Front Yard: Outward loading bay 
+panorama_A32BA32D_AE2B_D7F2_41DC_B3AC2B386181.label = Grane Mill: Front Gate
+panorama_A4B70C42_ADDA_71B6_41E5_B199D730B20F.label = Front Yard: Ladder 1
+panorama_A4B71050_ADDA_B252_41E1_BBB34756A551.label = Front Yard: Ladder 3
+panorama_A4B72658_ADDA_5E52_41E3_7498BB2BEB4E.label = Front Yard: Ladder 2
+panorama_A4B72D59_ADDA_D252_419B_98F4EDE11D5A.label = Weaving Shed: Roof: North lights
+panorama_A4B754AB_ADDB_B2F6_4195_1025C776B289.label = Side Yard: Boardroom 2
+panorama_A4B77823_ADDA_51F6_41E0_FA7E118E6872.label = Front Yard: Outward loading bay and ladder
+panorama_A4B7C70F_ADDF_DFCE_41D7_6C123AA2B386.label = Alice and Hilda
+panorama_A4B802E3_ADDA_F676_41E2_0FB8C8C33EA5.label = Alcove
+panorama_A4B80569_ADDA_5275_41E2_16FADF0E1EE1.label = Boilerhouse: Boiler 2
+panorama_A4B80CA6_ADDA_F2FE_419D_36580D6CDFAE.label = Boilerhouse: Entrance
+panorama_A4B81EB7_ADDA_CEDE_41D9_2EE1DD3886E3.label = Boilerhouse Lean-to workshop: Entrance
+panorama_A4B829AC_ADDA_52F2_41B9_4EDBEB5947CF.label = Boiler house snick
+panorama_A4B82C29_ADDE_51F2_41D6_D025F05E4DE8.label = Hilda: High pressure piston
+panorama_A4B840A8_ADDA_52F2_41E5_6CD819D9FA72.label = Chimney: Inspection hatch
+panorama_A4B84B13_ADDA_57D6_41DE_352EFAFDB0F0.label = Chimney 3
+panorama_A4B84B28_ADDE_77F2_41BC_2314115CA0D2.label = Entrance: Undercroft repair shop
+panorama_A4B84DF2_ADDE_5256_41DB_BB66E002FB5A.label = Flywheel: Starting motor
+panorama_A4B84F86_ADDA_4EBE_41D7_772FAF161198.label = Chimney 1
+panorama_A4B8557D_ADDA_724D_41E2_812FF025FCDC.label = Chimney 2
+panorama_A4B856EC_ADDE_5E72_41D7_46F7B664E90D.label = Condenser: cold water run
+panorama_A4B86200_ADDE_51B2_41D2_7BA72A855AC7.label = Hilda: Connecting rod
+panorama_A4B881D3_ADDB_D256_41DB_5786B7D24CDB.label = Back Yard
+panorama_A4B88530_ADDE_53D3_41CC_293B82605C2B.label = Undercroft repair shop
+panorama_A4B89035_ADDE_D1D2_41CD_FB9236D8409B.label = Main steam control
+panorama_A4B89101_ADDE_73B2_41CD_19EA7F225641.label = Condenser
+panorama_A4B895F2_ADDB_F256_41E4_8B9D34524A7D.label = Engine House: door
+panorama_A4B89641_ADDE_B1B2_41D8_4F280ACC437B.label = Hilda
+panorama_A4B8982F_ADDE_D1CE_41AB_E2B193AFD181.label = Flywheel pit: Underneath
+panorama_A4B8B226_ADDE_B1FE_41E2_240708A08C5D.label = Flywheel pit: door to condenser
+panorama_A4B8B412_ADDE_F1D6_41D3_1EA12AFAF76B.label = Flywheel and governor: detail
+panorama_A4B8BE71_ADDA_4E52_41DC_CD6533F50EDB.label = Front Yard: Boardroom 1
+panorama_A4B8C102_ADDB_D3B6_41D6_FE259BF120A5.label = Side Yard: Incoming Loading bay: Yarn
+panorama_A4B8C469_ADDA_B272_41E0_A7972B7B10B0.label = Boilerhouse Lean-to workshop: Exit
+panorama_A4B8C7DE_ADDB_BE4E_41A9_EFF9056F0812.label = Side Yard: Incoming Loading bay: Boiler 1: Coal
+panorama_A4B8CA1A_ADDE_D1D6_41B9_CE42D1E3B1EC.label = Flywheel and governor
+panorama_A4B8CBD8_ADDB_D652_41DB_231CF15F66A3.label = Back Yard: Engine house steps
+panorama_A4B8EAE9_ADDB_D672_41E0_3B4D184415C9.label = Side Yard: Boardroom 3
+panorama_A4B8FE1B_ADDE_F1D6_41E0_9DC7982B31A8.label = Flywheel pit
+panorama_A4B95B4E_ADDF_F64E_41DB_C73ECD5C1547.label = Alice: Low pressure piston
+panorama_A4B98125_ADDF_F3F2_41B4_B4DC8BF63512.label = Alice
+panorama_A4B983C1_ADDA_56B2_41D6_1F3CF72375AE.label = Alcove
+panorama_A4B98543_ADDF_D3B6_41C0_5C4C52E34B04.label = Alice: Connecting rod
+panorama_A4B98921_ADDF_B3F2_41D5_4A28BCA469EF.label = Alice: Companionway
+panorama_A4B99DC6_ADDA_52BE_41D4_CA34FCD163AF.label = Side Yard: Incoming Loading bay: Boiler 2:  Coal
+panorama_A4B9B349_ADDE_57B2_41BD_9320FDED84F5.label = Alternating Generator, Main loom wheel
+panorama_A4B9B81C_ADDE_71D2_41D2_982153C5C71B.label = Entrance: Economiser
+panorama_A4B9BF29_ADDF_CFF2_41D4_D5D41A02678A.label = Alice: Flywheel
+panorama_A4B9F989_ADDA_72B2_41DC_35AB20E54143.label = Boilerhouse: boiler 1
+panorama_A4B9FF7E_ADDA_4E4E_41E0_5822994F4CAF.label = Boilerhouse: Anthony and lathe
+panorama_A4BB8D5C_ADDD_D252_41E0_8955A56B12CC.label = Chimney: Baffle and entrance
+panorama_A4BBD364_ADDD_D672_41E2_B14F63933B52.label = Undercroft repair shop: parts
+panorama_A4BBD7A4_ADDD_FEF2_41E4_756C6BEFF6AD.label = Chimney: View to the top
+panorama_A74FA71B_ADDE_5FD6_4170_97CD3BB38A0E.label = Engine House
+panorama_B4FAA09B_BE02_56A5_41E4_945C5B6DD861.label = Economiser and boilers
+photo_A168C5CE_AFE4_326F_41DC_B534EC6DCBC2.label = Detail: Main control
+photo_A168C5CE_AFE4_326F_41DC_B534EC6DCBC2.label = Detail: Main control
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_D31B6981_C52C_D6D3_41DF_20631937E89B.url = //www.youtube.com/embed/lE3qzxnhK4c
+PopupWebFrameBehaviour_D3F92DEF_C575_4E50_41A1_2F460B511897.url = //www.youtube.com/embed/0t-9FylJNoQ?start=2
+PopupWebFrameBehaviour_DC3BA710_C6D7_3BF0_41CD_128AFCF5D6F9.url = //www.youtube.com/embed/me9ZwFdqa84
+PopupWebFrameBehaviour_DC469144_C53B_3650_41E8_2F448B50BD39.url = //www.youtube.com/embed/C5-jzqo2Hhs
+PopupWebFrameBehaviour_DC69D131_C6D5_5630_41C4_35C2D9952E26.url = //www.youtube.com/embed/bdSX0jdyn50
+PopupWebFrameBehaviour_DC6DF4CB_C53C_FE50_41DB_2119F8AD67A5.url = //www.youtube.com/embed/Eb-lqITiVIw
+PopupWebFrameBehaviour_DC8049EF_C557_3650_41B7_DEB547AACC3D.url = //www.youtube.com/embed/g-mNsS3Kn7E
+PopupWebFrameBehaviour_DCAC3DDB_C52C_CE70_41E3_073A7F412BB6.url = //www.youtube.com/embed/Pbk33sMTVT0
+PopupWebFrameBehaviour_DCB1861C_C537_3DF0_41E3_4E42668A5D69.url = //www.youtube.com/embed/T7akk09rhPw
+PopupWebFrameBehaviour_DCC6BCAA_C53C_CED0_41A9_294968A4A364.url = //www.youtube.com/embed/Cs5OxUxMtjc
+PopupWebFrameBehaviour_DD6B7239_C6F4_DA30_41E4_3A16EB118369.url = //www.youtube.com/embed/MOBQe5gg-sQ
+PopupWebFrameBehaviour_DDACBCB5_C6D4_CE30_41E0_B162EF001B23.url = //www.youtube.com/embed/76jb-dSNnHE
+PopupWebFrameBehaviour_DDFF3F62_C6DC_CA50_41D2_D59C5BFFCA7A.url = //www.youtube.com/embed/M_tK039uTg4
+PopupWebFrameBehaviour_DE1DFDE0_C72C_CE50_4191_D8C69A8696F9.url = //www.youtube.com/embed/rIrDT3iUivs?t=33
+PopupWebFrameBehaviour_DE97D201_C6DD_55D0_41E6_A842BF1C3F51.url = //www.youtube.com/embed/rIrDT3iUivs
+PopupWebFrameBehaviour_DE99358E_C6D4_FED0_41D8_584C03A6D085.url = //www.youtube.com/embed/yAT2D-yYvdc?start=14
