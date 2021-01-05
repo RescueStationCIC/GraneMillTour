@@ -12,6 +12,9 @@ tour.name = Grane Mill, Haslingden
 ### Tab Panel
 TabPanelPage_DD268F69_CD7F_260A_41E7_CA0A2F4DA943.label = Yards
 TabPanelPage_DD26FF69_CD7F_260A_41CF_480D7E18C885.label = Power Plant
+TabPanelPage_DF382BA3_D1E0_7F26_41E2_9D3764F237FE.label = Yards
+TabPanelPage_DF388BA3_D1E0_7F26_41C0_E523404B80CD.label = 1912
+TabPanelPage_DF389BA3_D1E0_7F26_41C5_31A143FD34E3.label = Power Plant
 TabPanelPage_E227881F_CF53_2A06_41D2_648F0BD778C2.label = 1912
 
 ### Tooltip
@@ -53,7 +56,7 @@ album_A54C046F_AFA4_322E_41D7_1580C502E962_1.label = Condenser 2
 album_A54C046F_AFA4_322E_41D7_1580C502E962_2.label = Condenser 3
 album_A54C046F_AFA4_322E_41D7_1580C502E962_3.label = Condenser 4
 album_A54C046F_AFA4_322E_41D7_1580C502E962_4.label = Condenser 5
-album_FC990E82_CF50_E6FE_41B2_97983DA64C1A.label = Photo Album ss_stott_engine_cylinder_end_elev_1906
+album_FC990E82_CF50_E6FE_41B2_97983DA64C1A.label = SS Stott Engine Drawings
 album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_0.label = ss_stott_engine_cylinder_end_elev_1906
 album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_1.label = ss_stott_high_pressure_valve_gear_machine_shop_production_drawing_1906
 album_FC990E82_CF50_E6FE_41B2_97983DA64C1A_2.label = ss_stott_machine_shop_production_drawing_high_pressure_cylinder_valve_dashpot_1906
@@ -142,6 +145,8 @@ window_FF9D7D97_CFD1_6A06_41E0_88DF2B287442.title = Willan and Mills Looms, .c 1
 ## Action
 
 ### URL
+LinkBehaviour_C0A85196_D260_6BEE_41E7_5D39550242DF.source = https://www.mapillary.com/map/im/iTWruqS52NbJ3ZQFGbTrqo
+PopupWebFrameBehaviour_C1A607F6_D220_372E_41C6_A659BF2A30CF.url = //www.youtube.com/embed/8crlo63mE34?list=PLBT6Q3gZ3ydqrhmvv83dwaVkXYyXs38Tf
 PopupWebFrameBehaviour_D31B6981_C52C_D6D3_41DF_20631937E89B.url = //www.youtube.com/embed/lE3qzxnhK4c
 PopupWebFrameBehaviour_D3F92DEF_C575_4E50_41A1_2F460B511897.url = //www.youtube.com/embed/0t-9FylJNoQ?start=2
 PopupWebFrameBehaviour_D514043C_CD2B_3E30_41E0_795FC81EDD01.url = //www.youtube.com/embed/MOBQe5gg-sQ
