@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Edwardian Medium Std";
+   src: url("fonts/Edwardian Medium Std.woff") format("woff"), url("fonts/Edwardian Medium Std.eot") format("embedded-opentype"), url("fonts/Edwardian Medium Std.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
