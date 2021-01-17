@@ -268,7 +268,6 @@ htmlText_FF9D3D96_CFD1_6A06_41E4_0E0EAB9EEB6E.html = <div style="text-align:left
 ### Title
 window_34AE5197_0E66_E4F2_4155_AA44A725A0A4.title = Economiser
 window_6424DC87_1265_BCD2_4184_6ABBEC67B945.title = The North-lights
-window_8A2C2C5C_0FE5_FC76_41A7_EB7C6354AFAF.title = Engine House
 window_8A32BB30_0FEA_A5CE_4192_A916BE975651.title = Condenser
 window_8A350C5A_0FFD_7C72_41AB_148719D39000.title = Boiler House
 window_8A3D9D42_0FE6_BC52_4174_4FE79451FCB4.title = Willan and Mills Looms, .c 1880
@@ -278,6 +277,7 @@ window_8B8140E3_0E1E_E452_418E_8D92BA2D4927.title = Weaving shed & warehouse
 window_8BAD5FD2_0E1D_9C72_4172_E04C9F88922C.title = Welcome to Grane Mill, Haslingden
 window_B078BA12_0E2F_67F2_41AB_711C7F7EF590.title = The Engineers
 window_B1F11FF5_0E26_BC36_4174_F359E9F5C5C5.title = Lancashire Boiler
+window_B3DFD975_0E3A_A436_419B_1B75C85F59B4.title = Engine House
 
 ## Hotspot
 
